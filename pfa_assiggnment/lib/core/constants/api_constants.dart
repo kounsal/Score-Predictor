@@ -1,7 +1,7 @@
 // API Configuration and Endpoints
 class ApiConstants {
   // Base URL - Update this with your actual API URL
-  static const String baseUrl = 'http://localhost:4000';
+  static const String baseUrl = 'http://3.7.73.47:4000';
   
   // API Endpoints
   static const String home = '/';
