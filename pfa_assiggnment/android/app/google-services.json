@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "329946555904",
+    "project_id": "dashmesh-bf72d",
+    "storage_bucket": "dashmesh-bf72d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329946555904:android:84df7d9499fb1f0c0d9ae5",
+        "android_client_info": {
+          "package_name": "com.amigo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJUWs5g0APY3tzwN9yglsSR2mHrvLt0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329946555904:android:9eb79a9d8d959b560d9ae5",
+        "android_client_info": {
+          "package_name": "com.amigo.ne"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJUWs5g0APY3tzwN9yglsSR2mHrvLt0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329946555904:android:fc0d4a673b2f52fa0d9ae5",
+        "android_client_info": {
+          "package_name": "com.example.pfa_assiggnment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJUWs5g0APY3tzwN9yglsSR2mHrvLt0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

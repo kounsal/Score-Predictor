@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import '../features/home/presentation/screens/home_screen.dart';
-import '../features/study_tracker/presentation/screens/add_record_screen.dart';
-import '../features/study_tracker/presentation/screens/records_screen.dart';
-import '../features/study_tracker/presentation/screens/stats_screen.dart';
-import '../features/study_tracker/presentation/screens/predict_screen.dart';
-import '../features/study_tracker/presentation/screens/train_model_screen.dart';
+
+import '../../features/home/presentation/screens/home_screen.dart';
+import '../../features/study_tracker/presentation/screens/add_record_screen.dart';
+import '../../features/study_tracker/presentation/screens/predict_screen.dart';
+import '../../features/study_tracker/presentation/screens/records_screen.dart';
+import '../../features/study_tracker/presentation/screens/stats_screen.dart';
+import '../../features/study_tracker/presentation/screens/train_model_screen.dart';
 
 class AppRouter {
   static final GoRouter router = GoRouter(
